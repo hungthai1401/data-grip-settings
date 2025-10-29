@@ -1,0 +1,18 @@
+<keymap version="1" name="macOS For All copy" parent="macOS For All">
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="PhpNewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="PhpNewFile">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="copilot.disposeInlays" />
+</keymap>

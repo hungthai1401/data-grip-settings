@@ -1,0 +1,138 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "default",
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Database",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Run",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Inspection",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25,
+          "isSplit": true
+        }
+      ]
+    },
+    "default": {
+      "v2": [
+        {
+          "id": "Services",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Run",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Inspection",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Database",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.1827924
+        },
+        {
+          "id": "Project",
+          "order": 1,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.29363135
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.33064517,
+          "isSplit": true
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 3,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "GitHub Copilot Chat",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Meet New UI",
+          "order": 5,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.33035713
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.1827924,
+        "bottom": 0.33,
+        "right": 0.29363135
+      }
+    }
+  }
+}]]></component>
+</application>
